@@ -1,7 +1,7 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: 'PDU16812TArLi6412LXSrlzHVglwsc046mGQxKRtN',
+    id: 'wVbgXzecIuOKTrGOxWtFQiFxChLEH1ZO51K8ZOX9M4w',
     title: '亲爱的, 早上好',
     desc: `
       {{date.DATA}}
@@ -16,7 +16,7 @@ const TEMPLATE_CONFIG = [
       `
   },
   {
-    id: 'PDU16801TFRjwM3BRpxRgJFi9NO2MdHOvpjQIW9mJ',
+    id: 'wVbgXzecIuOKTrGOxWtFQiFxChLEH1ZO51K8ZOX9M4w',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
