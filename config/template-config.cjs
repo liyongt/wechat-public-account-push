@@ -4,18 +4,15 @@ const TEMPLATE_CONFIG = [
     id: 'PDU16812TArLi6412LXSrlzHVglwsc046mGQxKRtN',
     title: '亲爱的, 早上好',
     desc: `
-      **{{date.DATA}}**
-      ---
+      {{date.DATA}}
       城市：{{city.DATA}}
       天气：{{weather.DATA}}
       气温: {{max_temperature.DATA}} / {{min_temperature.DATA}}
       风向: {{wind_direction.DATA}}
       风级: {{wind_scale.DATA}}
-      ---
       今天是我们恋爱的第{{love_day.DATA}}天
-      ---
       {{note_en.DATA}} / {{note_ch.DATA}}
-    `
+      `
   },
   {
     id: 'PDU16801TFRjwM3BRpxRgJFi9NO2MdHOvpjQIW9mJ',
